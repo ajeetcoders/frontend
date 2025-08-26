@@ -17,8 +17,8 @@ const Footer = () => {
             <div className="text-secondary fw-light d-flex flex-column p-2 gap-1">
               <caption >Contact Me</caption>
               <ul style={{fontSize: '1rem', listStyle: 'none'}}>
-                <li className={`${s.con} d-flex gap-2 align-items-center`}><IoCall/>+91 - 9399430276</li>
-                <li className={`${s.con} d-flex gap-2 align-items-center`}><MdAttachEmail />satishchoudhary12290@gmail.com</li>
+                <li className={`${s.con} d-flex gap-2 align-items-center`}><IoCall/>+91 - 6264642342</li>
+                <li className={`${s.con} d-flex gap-2 align-items-center`}><MdAttachEmail />pal235897@gmail.com</li>
                 <li className={`${s.con} d-flex gap-2 align-items-center`}><FaLocationDot />city hostel, indore</li>
               </ul>
             </div>
